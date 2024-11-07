@@ -1,0 +1,12 @@
+email:
+  user: 932552569@qq.com
+  code: ykrscnefdewcbbag
+  host: smtp.qq.com
+  auth: true
+
+hobbies:
+  - reading
+  - coding
+  - traveling
+  - music
+  - movie
